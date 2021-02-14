@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Dashboard">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#E8A9A9"
+        android:text="DASHBOARD"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textStyle="bold"></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello,"
+        android:textColor="#000"
+        android:padding="10dp"
+        android:textStyle="bold"
+        android:textSize="20dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Username,"
+        android:padding="20dp"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:id="@+id/username"/>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:src="@drawable/backlogin"></ImageView>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:textSize="15dp"
+        android:background="@drawable/border3"
+
+        android:text="Upload new Audio"
+        android:id="@+id/new_audio"
+        ></Button>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:textSize="15dp"
+        android:background="@drawable/border3"
+        android:text="My Uploaded Audios"
+        android:id="@+id/upload_audio"></Button>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:textSize="15dp"
+        android:background="@drawable/border3"
+        android:text="Profile"
+        android:id="@+id/profile"></Button>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:textSize="15dp"
+        android:background="@drawable/border3"
+        android:text="Log out"
+        android:id="@+id/log_out"></Button>
+
+</LinearLayout>

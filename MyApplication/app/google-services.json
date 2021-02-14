@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "334259079164",
+    "firebase_url": "https://audioapp-2c494-default-rtdb.firebaseio.com",
+    "project_id": "audioapp-2c494",
+    "storage_bucket": "audioapp-2c494.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334259079164:android:0271380a6724e4ee49d479",
+        "android_client_info": {
+          "package_name": "com.example.audioapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334259079164-lbmvrt2jh3ohuos820g02lq5q7e8qfmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf-QJQ5BYzPTXOse3UprlXhv-6SWQyhos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334259079164-lbmvrt2jh3ohuos820g02lq5q7e8qfmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334259079164:android:47dfa563a39c10ad49d479",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334259079164-lbmvrt2jh3ohuos820g02lq5q7e8qfmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf-QJQ5BYzPTXOse3UprlXhv-6SWQyhos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334259079164-lbmvrt2jh3ohuos820g02lq5q7e8qfmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
